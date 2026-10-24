@@ -24,3 +24,4 @@ entrada 22
 entrada 23
 entrada 24
 entrada 25
+entrada 26
