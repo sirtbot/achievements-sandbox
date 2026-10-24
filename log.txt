@@ -43,3 +43,8 @@ entrada 37
 =======
 >>>>>>> 45fe3066fdaaa69783cf7b2d461e46f02b4602d4
 entrada 38
+<<<<<<< HEAD
+=======
+entrada 38
+>>>>>>> 7d59ddc12711eeb71bb012177fb9d44f16c31cf1
+entrada 39
