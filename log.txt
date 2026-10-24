@@ -32,3 +32,4 @@ entrada 29
 entrada 29
 entrada 30
 entrada 31
+entrada 32
