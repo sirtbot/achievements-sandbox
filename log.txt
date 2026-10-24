@@ -3,3 +3,4 @@ entrada 2
 entrada 3
 entrada 4
 entrada 5
+entrada 6
