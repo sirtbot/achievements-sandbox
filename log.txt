@@ -37,5 +37,9 @@ entrada 33
 entrada 35
 entrada 35
 entrada 36
+<<<<<<< HEAD
 entrada 37
 entrada 37
+=======
+>>>>>>> 45fe3066fdaaa69783cf7b2d461e46f02b4602d4
+entrada 38
