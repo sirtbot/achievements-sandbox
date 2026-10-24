@@ -36,3 +36,4 @@ entrada 32
 entrada 33
 entrada 35
 entrada 35
+entrada 36
