@@ -30,3 +30,4 @@ entrada 27
 entrada 28
 entrada 29
 entrada 29
+entrada 30
