@@ -22,3 +22,4 @@ entrada 20
 entrada 21
 entrada 22
 entrada 23
+entrada 24
